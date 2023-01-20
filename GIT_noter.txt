@@ -1,0 +1,40 @@
+###################
+    1  git config --global user.email "per.zapper.pedersen@gmail.com"
+    2  git config --global user.name "Per Pedersen"
+    3  git clone https://git01.dk.cgi.com/scm/glrchr/vetstat.git
+    4  Mumford5678..
+    5  ll
+    6  cd vetstat/
+    7  ll
+    8  cd vetstat-frontend/
+    9  ll
+   10  cd src/
+   11  ll
+   12  cd app/
+   13  ll
+   14  cd practice/
+   15  ll
+   16  cd practice-list/
+   17  ll
+   18  git version
+   19  git status
+   20  git --version
+   21  pwd
+   22  kmdir git-repo
+   23  mkdir git-repo
+   24  cd git-repo/
+   25  mkdir w3school
+   26  cd w3school/
+   27  git init
+   28  git config user.name "zapski"
+   29  git config user.email "per.zapper.pedersen@gmail.com"
+   30  ls
+   31  git status
+   32  git add index.html
+   33  git status
+   34  git status
+   35  git add --all
+   36  git status
+   37  history
+
+###################
