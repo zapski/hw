@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Dette er endnu en tilføjelse fra github
 
 Dette er tilføjet via github
+
+Endnu en ny linie
