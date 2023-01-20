@@ -38,3 +38,20 @@
    37  history
 
 ###################
+
+git status 
+git status --short
+
+
+git commit -m "First release of Hello World!"
+git commit -a -m "Updated index.html with a new line" 		# denne tager alle ændrede filer OGSÅ dem som ikke er "staged" 
+
+git log
+
+
+git command -help 	-  See all the available options for the specific command
+git help --all    	-  See all possible commands
+git commit -help
+git commit --help   - åbner hjælpen i en browser istedet (fra manualen)
+
+
