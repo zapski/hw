@@ -55,3 +55,12 @@ git commit -help
 git commit --help   - åbner hjælpen i en browser istedet (fra manualen)
 
 
+git branch hello-world-images
+git branch			- lister branches
+
+git checkout hello-world-images      - Switched to branch 'hello-world-images'
+	-b - denne option danner samtid barnch hvis den ikke allerede eksisterer.
+git checkout master
+	
+	
+
